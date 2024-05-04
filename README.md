@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harishsamala29
+- 👋 Hi, I’m @harishsamala
 - 👀 I’m interested in Devops  and Product Design
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Software Dev Sourse
